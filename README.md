@@ -7,3 +7,4 @@
 #after login
 <h3>First Name</h3>
 <h3>Last Name</h3>
+<p>Recheck your name</p>
